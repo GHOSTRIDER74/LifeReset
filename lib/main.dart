@@ -14,7 +14,7 @@ class MainApp extends StatelessWidget {
       title: 'Life Reset',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.darkTheme,
-      home: const Placeholder(), // ← temporary, Phase 5 replaces this
+      home: const Placeholder(),
     );
   }
 }
