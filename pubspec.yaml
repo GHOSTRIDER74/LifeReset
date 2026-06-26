@@ -34,3 +34,4 @@ flutter:
 
 dependency_overrides:
   flutter_local_notifications_linux: ^4.0.1
+  shared_preferences: ^2.2.3
